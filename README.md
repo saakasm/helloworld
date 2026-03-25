@@ -1,5 +1,5 @@
 - 😁 Hi, I’m Saaketh Rayaprolu
 - 🧮 I’m interested in quantum information science, machine learning, mathematics, and data science
 - 📚 I have  Master's degree in Quantum Information Science from USC and a Bachelor's Degree in Mathematics from UT Austin
-- 💡 I’m looking to collaborate on any projects regarding QML, quantum algorithms, machine learning, or AI
+- 💡 I’m looking to collaborate on any projects regarding QML, Generative AI, quantum algorithms, machine learning, or AI
 - 📬 I can be reached best at saaketh.rayaprolu@gmail.com
